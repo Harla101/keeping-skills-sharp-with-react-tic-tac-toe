@@ -1,0 +1,49 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "username": "Bill",
+      "games": {
+        "win": 2,
+        "loss": 0,
+        "draw": 0
+      }
+    },
+    {
+      "id": 3,
+      "username": "Rachel",
+      "games": {
+        "win": 3,
+        "loss": 0,
+        "draw": 0
+      }
+    },
+    {
+      "id": 2,
+      "username": "Mike",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      }
+    },
+    {
+      "username": "Savannah",
+      "games": {
+        "win": 2,
+        "loss": 0,
+        "draw": 1
+      },
+      "id": 4
+    },
+    {
+      "username": "Steve",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 1
+      },
+      "id": 5
+    }
+  ]
+}
