@@ -1,4 +1,4 @@
-# Bluebeam Web Development Homework
+
 
 ### Setup
 Please make sure you have the following installed locally:
